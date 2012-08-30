@@ -9,4 +9,5 @@ auto-hides all ignored users
 
 ## hideforums.user.js ##
 open file, edit forum list on first line, then install
+
 the respective forums will be hidden
