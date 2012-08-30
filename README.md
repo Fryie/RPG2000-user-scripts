@@ -1,6 +1,7 @@
 # RPG2000 User scripts #
 
 Chrome: Drag and drop script into a browser window, confirm install
+
 Firefox: Use the Greasemonkey plugin to add user scripts
 
 ## hideignore.user.js ##
